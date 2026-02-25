@@ -353,12 +353,11 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/ssr@^17.3.17":
-  version "17.3.17"
-  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-17.3.17.tgz#b8f2f9488f6f142ffbf19356bf7cdde9ecb76a4a"
-  integrity sha512-hRszFhFPh74n17cjhbRuR0igSwHm4ssB0LgkE4A5tBgYTSoWomRM6nmiyrk10OdQHlLOTFwdTIZ3aPDM5174Ow==
+"@angular/ssr@^19.2.21":
+  version "19.2.21"
+  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-19.2.21.tgz#7cea86d2013ffc60dc7cb4a04535cd08bbcf07a9"
+  integrity sha512-to3d4PZaufkUkWjlqM2cXQoYVNJUaUCYYw1g3b6ubCVHzSYZNCqXvreklMSKXwQoUhEHm2HOZ1h3WhcKEDiaag==
   dependencies:
-    critters "0.0.22"
     tslib "^2.3.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.23.5", "@babel/code-frame@^7.24.7":

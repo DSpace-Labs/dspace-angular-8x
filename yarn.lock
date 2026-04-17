@@ -338,10 +338,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/platform-server@^17.3.11":
-  version "17.3.12"
-  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-17.3.12.tgz#e7ec48c4f0f4aeecac0689eb761107ac48c91570"
-  integrity sha512-P3xBzyeT2w/iiGsqGUNuLRYdqs2e+5nRnVYU9tc/TjhYDAgwEgq946U7Nie1xq5Ts/8b7bhxcK9maPKWG237Kw==
+"@angular/platform-server@^19.2.21":
+  version "19.2.21"
+  resolved "https://registry.yarnpkg.com/@angular/platform-server/-/platform-server-19.2.21.tgz#a033fcde933e5f5c67603fecf3f45e4ef797351b"
+  integrity sha512-urk7XYX/C4HbE/ZeqcSXnAvbat8CdVXBF2oz0CiVY8V8ENYPi1OFRXbxnmGPtHo4YNWwcycomddcKcSNzRdE+A==
   dependencies:
     tslib "^2.3.0"
     xhr2 "^0.2.0"
@@ -5568,11 +5568,9 @@ eslint-plugin-deprecation@^1.4.1:
 
 "eslint-plugin-dspace-angular-html@link:./lint/dist/src/rules/html":
   version "0.0.0"
-  uid ""
 
 "eslint-plugin-dspace-angular-ts@link:./lint/dist/src/rules/ts":
   version "0.0.0"
-  uid ""
 
 eslint-plugin-import-newlines@^1.4.1:
   version "1.4.1"

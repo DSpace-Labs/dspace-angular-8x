@@ -106,7 +106,7 @@
     "klaro": "^0.7.18",
     "lodash": "^4.18.1",
     "lru-cache": "^7.14.1",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "mirador": "^3.4.3",
     "mirador-dl-plugin": "^0.13.0",
     "mirador-share-plugin": "^0.16.0",
